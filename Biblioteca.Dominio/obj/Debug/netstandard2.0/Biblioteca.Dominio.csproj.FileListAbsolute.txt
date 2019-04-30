@@ -1,9 +1,0 @@
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\bin\Debug\netstandard2.0\Biblioteca.Dominio.deps.json
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\bin\Debug\netstandard2.0\Biblioteca.Dominio.dll
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\bin\Debug\netstandard2.0\Biblioteca.Dominio.pdb
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\obj\Debug\netstandard2.0\Biblioteca.Dominio.csprojAssemblyReference.cache
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\obj\Debug\netstandard2.0\Biblioteca.Dominio.csproj.CoreCompileInputs.cache
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\obj\Debug\netstandard2.0\Biblioteca.Dominio.AssemblyInfoInputs.cache
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\obj\Debug\netstandard2.0\Biblioteca.Dominio.AssemblyInfo.cs
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\obj\Debug\netstandard2.0\Biblioteca.Dominio.dll
-E:\bdii\BiblioCore2019\Biblioteca.Dominio\obj\Debug\netstandard2.0\Biblioteca.Dominio.pdb
