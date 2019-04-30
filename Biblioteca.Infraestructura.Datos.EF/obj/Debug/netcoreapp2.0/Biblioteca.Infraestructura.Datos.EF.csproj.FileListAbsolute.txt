@@ -1,0 +1,14 @@
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.deps.json
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.runtimeconfig.json
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.runtimeconfig.dev.json
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.dll
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.pdb
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Dominio.dll
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Dominio.pdb
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.csprojAssemblyReference.cache
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.csproj.CoreCompileInputs.cache
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.AssemblyInfoInputs.cache
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.AssemblyInfo.cs
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.csproj.CopyComplete
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.dll
+E:\bdii\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.pdb
