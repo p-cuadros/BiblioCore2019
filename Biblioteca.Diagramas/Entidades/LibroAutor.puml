@@ -1,0 +1,8 @@
+@startuml
+class LibroAutor {
+    + IDLibro : int <<get>> <<set>>
+    + IDAutor : int <<get>> <<set>>
+}
+LibroAutor --> "Libro" Libro
+LibroAutor --> "Autor" Autor
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+class Libro {
+    + IDLibro : int <<get>> <<set>>
+    + TituloLibro : string <<get>> <<set>>
+    + ISBN : string <<get>> <<set>>
+}
+@enduml

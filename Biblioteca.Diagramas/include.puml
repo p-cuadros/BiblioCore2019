@@ -1,0 +1,6 @@
+@startuml
+!include .\\Entidades\Autor.puml
+!include .\\Entidades\Libro.puml
+!include .\\Entidades\LibroAutor.puml
+!include .\\Entidades\prueba.puml
+@enduml

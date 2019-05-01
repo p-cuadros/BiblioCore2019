@@ -1,0 +1,6 @@
+@startuml
+class Autor {
+    + IDAutor : int <<get>> <<set>>
+    + Nombre : string <<get>> <<set>>
+}
+@enduml

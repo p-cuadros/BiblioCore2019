@@ -1,0 +1,14 @@
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.deps.json
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.runtimeconfig.json
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.runtimeconfig.dev.json
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.dll
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.pdb
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Dominio.dll
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\bin\Debug\netcoreapp2.0\Biblioteca.Dominio.pdb
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.csprojAssemblyReference.cache
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.csproj.CoreCompileInputs.cache
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.AssemblyInfoInputs.cache
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.AssemblyInfo.cs
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.csproj.CopyComplete
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.dll
+F:\Proyectos\netcore2\BiblioCore2019\Biblioteca.Infraestructura.Datos.EF\obj\Debug\netcoreapp2.0\Biblioteca.Infraestructura.Datos.EF.pdb
